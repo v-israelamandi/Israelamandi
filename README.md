@@ -32,7 +32,7 @@ Welcome to my technical portfolio! As an advocate for open collaboration, I’ve
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=israelamandi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v-israelamandi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ## 🤝 Let’s Connect!
