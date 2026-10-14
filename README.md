@@ -40,4 +40,4 @@ Always open to collaboration, mentorship, and sharing knowledge. Let’s build s
 
 ---
 
-[View my GitHub profile](https://github.com/Israelamandi)
+[View my GitHub profile](https://github.com/v-Israelamandi)
